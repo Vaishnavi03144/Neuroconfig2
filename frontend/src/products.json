@@ -1,0 +1,583 @@
+[
+    {
+        "id": 1,
+        "name": "Dell 15 Laptop",
+        "brand": "Dell",
+        "category": "Laptop",
+        "price": 59990,
+        "originalPrice": 72781,
+        "discount": "18%",
+        "rating": 3.8,
+        "reviews": 4087,
+        "platform": "Amazon",
+        "buyLink": "https://tinyurl.com/2w6ubcmx",
+        "specs": {
+            "processor": "14th Gen Intel Core 3 100U",
+            "ram": "16GB DDR4",
+            "storage": "512GB SSD",
+            "display": "15.6 inch FHD 120Hz IPS"
+        },
+        "tags": [
+            "student",
+            "office",
+            "coding",
+            "thin-light"
+        ],
+        "stock": "In Stock"
+    },
+    {
+        "id": 2,
+        "name": "ASUS TUF Gaming A15",
+        "brand": "ASUS",
+        "category": "Laptop",
+        "price": 71990,
+        "originalPrice": 83990,
+        "discount": "14%",
+        "rating": 4.3,
+        "reviews": 811,
+        "platform": "Amazon",
+        "buyLink": "https://tinyurl.com/52bc5wst",
+        "specs": {
+            "processor": "AMD Ryzen 7 7445HS",
+            "ram": "16GB DDR5",
+            "storage": "512GB SSD",
+            "display": "15.6 inch FHD 144Hz",
+            "graphics": "NVIDIA RTX 3050 4GB 75W TGP"
+        },
+        "tags": [
+            "gaming",
+            "coding",
+            "student",
+            "creator",
+            "upgradeable"
+        ],
+        "stock": "In Stock"
+    },
+    {
+        "id": 3,
+        "name": "Lenovo LOQ Essential Gaming Laptop",
+        "brand": "Lenovo",
+        "category": "Laptop",
+        "price": 99389,
+        "originalPrice": 125390,
+        "discount": "21%",
+        "rating": 3.8,
+        "reviews": 4087,
+        "platform": "Amazon",
+        "buyLink": "https://tinyurl.com/48pj9usv",
+        "specs": {
+            "processor": "AMD Ryzen 7 7735HS",
+            "ram": "16GB DDR5",
+            "storage": "512GB SSD",
+            "display": "15.6 inch FHD IPS 144Hz",
+            "graphics": "NVIDIA RTX 3050 6GB 65W TGP"
+        },
+        "tags": [
+            "gaming",
+            "creator",
+            "coding",
+            "student",
+            "144hz"
+        ],
+        "stock": "In Stock"
+    },
+    {
+        "id": 4,
+        "name": "ASUS TUF Gaming F16",
+        "brand": "ASUS",
+        "category": "Laptop",
+        "price": 168990,
+        "originalPrice": 173990,
+        "discount": "3%",
+        "rating": 4.4,
+        "reviews": 88,
+        "platform": "Amazon",
+        "buyLink": "https://tinyurl.com/2tptucyc",
+        "specs": {
+            "processor": "Intel Core i7 14650HX",
+            "ram": "16GB",
+            "storage": "1TB SSD",
+            "display": "16 inch FHD+ 165Hz",
+            "graphics": "NVIDIA RTX 5060 8GB GDDR7 115W"
+        },
+        "tags": [
+            "gaming",
+            "creator",
+            "premium",
+            "coding",
+            "high-performance"
+        ],
+        "stock": "In Stock"
+    },
+    {
+        "id": 5,
+        "name": "ASUS Gaming V16",
+        "brand": "ASUS",
+        "category": "Laptop",
+        "price": 73555,
+        "originalPrice": 88990,
+        "discount": "17%",
+        "rating": 4.4,
+        "reviews": 7,
+        "platform": "Amazon",
+        "buyLink": "https://tinyurl.com/2evyyern",
+        "specs": {
+            "processor": "Intel Core 5 210H",
+            "ram": "16GB DDR5",
+            "storage": "512GB SSD",
+            "display": "16 inch FHD+ 144Hz",
+            "graphics": "NVIDIA RTX 3050 6GB"
+        },
+        "tags": [
+            "gaming",
+            "student",
+            "coding",
+            "creator",
+            "value-for-money"
+        ],
+        "stock": "In Stock"
+    },
+    {
+        "id": 6,
+        "name": "ASUS TUF Gaming F16",
+        "brand": "ASUS",
+        "category": "Laptop",
+        "price": 97990,
+        "originalPrice": 108990,
+        "discount": "10%",
+        "rating": 4.4,
+        "reviews": 37,
+        "platform": "Amazon",
+        "buyLink": "https://tinyurl.com/9r8cnmpn",
+        "specs": {
+            "processor": "Intel Core 5 210H",
+            "ram": "16GB DDR5",
+            "storage": "512GB SSD",
+            "display": "16 inch FHD+ 144Hz",
+            "graphics": "NVIDIA RTX 4050 6GB 140W TGP"
+        },
+        "tags": [
+            "gaming",
+            "creator",
+            "coding",
+            "student",
+            "high-performance"
+        ],
+        "stock": "In Stock"
+    },
+    {
+        "id": 7,
+        "name": "Lenovo LOQ AI Gaming Laptop",
+        "brand": "Lenovo",
+        "category": "Laptop",
+        "price": 66990,
+        "originalPrice": 93690,
+        "discount": "28%",
+        "rating": 4.3,
+        "reviews": 5,
+        "platform": "Amazon",
+        "buyLink": "https://tinyurl.com/3avv48tn",
+        "specs": {
+            "processor": "AMD Ryzen 5 7235HS",
+            "ram": "12GB DDR5",
+            "storage": "512GB SSD",
+            "display": "15.6 inch FHD IPS 144Hz",
+            "graphics": "NVIDIA RTX 3050A 4GB 65W TGP"
+        },
+        "tags": [
+            "gaming",
+            "student",
+            "coding",
+            "budget",
+            "144hz"
+        ],
+        "stock": "In Stock"
+    },
+    {
+        "id": 8,
+        "name": "HP Victus Gaming Laptop",
+        "brand": "HP",
+        "category": "Laptop",
+        "price": 94990,
+        "originalPrice": 110895,
+        "discount": "14%",
+        "rating": 4.5,
+        "reviews": 2,
+        "platform": "Amazon",
+        "buyLink": "https://tinyurl.com/38htd79j",
+        "specs": {
+            "processor": "Intel Core i5-14450HX",
+            "ram": "24GB DDR5",
+            "storage": "512GB SSD",
+            "display": "15.6 inch FHD IPS 144Hz",
+            "graphics": "NVIDIA RTX 4050 6GB"
+        },
+        "tags": [
+            "gaming",
+            "creator",
+            "coding",
+            "student",
+            "upgradeable"
+        ],
+        "stock": "In Stock"
+    },
+    {
+        "id": 9,
+        "name": "HP Omen AI Gaming Laptop",
+        "brand": "HP",
+        "category": "Laptop",
+        "price": 187990,
+        "originalPrice": 196719,
+        "discount": "4%",
+        "rating": 4.3,
+        "reviews": 18,
+        "platform": "Amazon",
+        "buyLink": "https://tinyurl.com/3v362ft8",
+        "specs": {
+            "processor": "Intel Core Ultra 9 285H",
+            "ram": "32GB DDR5",
+            "storage": "1TB SSD",
+            "display": "16 inch 2K WUXGA 165Hz",
+            "graphics": "NVIDIA RTX 5070 8GB GDDR7"
+        },
+        "tags": [
+            "gaming",
+            "premium",
+            "creator",
+            "AI",
+            "high-performance"
+        ],
+        "stock": "In Stock"
+    },
+    {
+        "id": 10,
+        "name": "HP Victus Gaming Laptop",
+        "brand": "HP",
+        "category": "Laptop",
+        "price": 89990,
+        "originalPrice": 95746,
+        "discount": "6%",
+        "rating": 4.1,
+        "reviews": 73,
+        "platform": "Amazon",
+        "buyLink": "https://tinyurl.com/3d33mxba",
+        "specs": {
+            "processor": "AMD Ryzen 7 7445HS",
+            "ram": "16GB DDR5",
+            "storage": "512GB SSD",
+            "display": "15.6 inch FHD IPS 144Hz",
+            "graphics": "NVIDIA RTX 4050 6GB"
+        },
+        "tags": [
+            "gaming",
+            "coding",
+            "student",
+            "creator",
+            "upgradeable"
+        ],
+        "stock": "In Stock"
+    },
+    {
+        "id": 11,
+        "name": "Samsung Galaxy S24 5G AI Smartphone",
+        "brand": "Samsung",
+        "category": "Smartphone",
+        "price": 54989,
+        "originalPrice": 79999,
+        "discount": "31%",
+        "rating": 4.3,
+        "reviews": 941,
+        "platform": "Amazon",
+        "buyLink": "https://tinyurl.com/3sf2k4uk",
+        "specs": {
+            "processor": "Snapdragon",
+            "ram": "8GB",
+            "storage": "256GB",
+            "display": "6.2 inch FHD+ AMOLED 120Hz",
+            "camera": "50MP Triple Camera"
+        },
+        "tags": [
+            "flagship",
+            "AI",
+            "camera",
+            "premium",
+            "5G"
+        ],
+        "stock": "In Stock"
+    },
+    {
+        "id": 12,
+        "name": "vivo V70 5G",
+        "brand": "vivo",
+        "category": "Smartphone",
+        "price": 49999,
+        "originalPrice": 50999,
+        "discount": "2%",
+        "rating": 4.5,
+        "reviews": 116,
+        "platform": "Amazon",
+        "buyLink": "https://tinyurl.com/2xd3536f",
+        "specs": {
+            "processor": "Snapdragon 7 Gen 4",
+            "ram": "8GB",
+            "storage": "256GB",
+            "display": "6.59 inch 1.5K OLED 120Hz",
+            "camera": "50MP ZEISS Triple Camera",
+            "battery": "6500mAh 90W Fast Charging"
+        },
+        "tags": [
+            "camera",
+            "premium",
+            "5G",
+            "gaming",
+            "battery"
+        ],
+        "stock": "In Stock"
+    },
+    {
+        "id": 13,
+        "name": "OnePlus 13R",
+        "brand": "OnePlus",
+        "category": "Smartphone",
+        "price": 41999,
+        "originalPrice": 44999,
+        "discount": "7%",
+        "rating": 4.4,
+        "reviews": 4290,
+        "platform": "Amazon",
+        "buyLink": "https://tinyurl.com/2sz7atft",
+        "specs": {
+            "processor": "Snapdragon 8 Gen 3",
+            "ram": "12GB",
+            "storage": "256GB",
+            "display": "1.5K ProXDR AMOLED 120Hz",
+            "camera": "50MP Triple Camera",
+            "battery": "6000mAh Fast Charging"
+        },
+        "tags": [
+            "flagship",
+            "AI",
+            "gaming",
+            "camera",
+            "5G"
+        ],
+        "stock": "In Stock"
+    },
+    {
+        "id": 14,
+        "name": "REDMI Note 15 Pro+ 5G",
+        "brand": "Redmi",
+        "category": "Smartphone",
+        "price": 43999,
+        "originalPrice": 44999,
+        "discount": "2%",
+        "rating": 4.2,
+        "reviews": 198,
+        "platform": "Amazon",
+        "buyLink": "https://tinyurl.com/fyuubss7",
+        "specs": {
+            "processor": "Snapdragon 7s Gen 4",
+            "ram": "12GB",
+            "storage": "512GB",
+            "display": "6.83 inch 1.5K AMOLED 120Hz",
+            "camera": "200MP OIS Camera",
+            "battery": "6500mAh 100W HyperCharge"
+        },
+        "tags": [
+            "camera",
+            "gaming",
+            "battery",
+            "5G",
+            "premium-midrange"
+        ],
+        "stock": "In Stock"
+    },
+    {
+        "id": 15,
+        "name": "Samsung Galaxy S24 FE 5G",
+        "brand": "Samsung",
+        "category": "Smartphone",
+        "price": 43499,
+        "originalPrice": 59999,
+        "discount": "28%",
+        "rating": 4.5,
+        "reviews": 960,
+        "platform": "Amazon",
+        "buyLink": "https://sl1nk.com/noj9ibi",
+        "specs": {
+            "processor": "Exynos (not specified in source)",
+            "ram": "8GB",
+            "storage": "128GB",
+            "display": "6.7 inch FHD+ Dynamic AMOLED 2X",
+            "camera": "50MP rear camera with ProVisual Engine",
+            "battery": "4700 mAh (up to 28 hours video playback)"
+        },
+        "os": "Android 14",
+        "cpuSpeed": "3.1 GHz",
+        "tags": [
+            "AI",
+            "flagship-feel",
+            "camera",
+            "gaming",
+            "battery",
+            "5G",
+            "mid-premium"
+        ],
+        "colors": [
+            "Mint"
+        ],
+        "stock": "In Stock"
+    },
+    {
+        "id": 16,
+        "name": "Apple iPhone 16 Plus",
+        "brand": "Apple",
+        "category": "Smartphone",
+        "price": 79900,
+        "originalPrice": 89900,
+        "discount": "11%",
+        "rating": 4.6,
+        "reviews": 799,
+        "platform": "Amazon",
+        "buyLink": "https://sl1nk.com/zlvuzhf",
+        "specs": {
+            "processor": "Apple A18 Chip",
+            "ram": "Not specified",
+            "storage": "128GB",
+            "display": "6.7 inch",
+            "camera": "48MP Fusion Camera + Ultra Wide Macro + Telephoto (2x optical zoom)"
+        },
+        "colors": [
+            "Ultramarine",
+            "Pink",
+            "Teal",
+            "White",
+            "Black"
+        ],
+        "tags": [
+            "flagship",
+            "AI",
+            "camera",
+            "premium",
+            "5G",
+            "battery-boost"
+        ],
+        "stock": "In Stock"
+    },
+    {
+        "id": 17,
+        "name": "OPPO Reno15 5G",
+        "brand": "OPPO",
+        "category": "Smartphone",
+        "price": 45999,
+        "originalPrice": 49999,
+        "discount": "8%",
+        "rating": 4.4,
+        "reviews": 169,
+        "platform": "Amazon",
+        "buyLink": "https://tinyurl.com/5xaeh5fw",
+        "specs": {
+            "processor": "Snapdragon 7 Gen 4",
+            "ram": "8GB",
+            "storage": "256GB",
+            "display": "6.59 inch AMOLED 120Hz",
+            "camera": "50MP Triple Camera",
+            "battery": "6500mAh 80W SuperVOOC"
+        },
+        "tags": [
+            "camera",
+            "premium-midrange",
+            "5G",
+            "battery",
+            "smooth-display"
+        ],
+        "stock": "In Stock"
+    },
+    {
+        "id": 18,
+        "name": "iQOO 15R",
+        "brand": "iQOO",
+        "category": "Smartphone",
+        "price": 57999,
+        "originalPrice": 61999,
+        "discount": "6%",
+        "rating": 4.4,
+        "reviews": 524,
+        "platform": "Amazon",
+        "buyLink": "https://tinyurl.com/ymjdnwnj",
+        "specs": {
+            "processor": "Snapdragon 8 Gen 5",
+            "ram": "12GB LPDDR5X",
+            "storage": "512GB UFS 4.1",
+            "display": "1.5K AMOLED 144Hz",
+            "camera": "50MP Sony OIS Camera",
+            "battery": "7600mAh 100W FlashCharge"
+        },
+        "tags": [
+            "gaming",
+            "flagship",
+            "battery",
+            "AI",
+            "5G"
+        ],
+        "stock": "In Stock"
+    },
+    {
+        "id": 19,
+        "name": "OnePlus 13s",
+        "brand": "OnePlus",
+        "category": "Smartphone",
+        "price": 52999,
+        "originalPrice": 57999,
+        "discount": "9%",
+        "rating": 4.5,
+        "reviews": 1939,
+        "platform": "Amazon",
+        "buyLink": "https://tinyurl.com/3c7spa7b",
+        "specs": {
+            "processor": "Snapdragon 8 Elite",
+            "ram": "12GB",
+            "storage": "256GB",
+            "display": "6.32 inch ProXDR AMOLED 120Hz",
+            "camera": "50MP + 50MP Rear, 32MP Front",
+            "battery": "5850mAh 80W SUPERVOOC"
+        },
+        "tags": [
+            "flagship",
+            "AI",
+            "compact",
+            "gaming",
+            "5G"
+        ],
+        "stock": "In Stock"
+    },
+    {
+        "id": 20,
+        "name": "OnePlus 13",
+        "brand": "OnePlus",
+        "category": "Smartphone",
+        "price": 62999,
+        "originalPrice": 72999,
+        "discount": "14%",
+        "rating": 4.5,
+        "reviews": 2710,
+        "platform": "Amazon",
+        "buyLink": "https://tinyurl.com/36a7h8vk",
+        "specs": {
+            "processor": "Snapdragon 8 Elite",
+            "ram": "12GB",
+            "storage": "256GB",
+            "display": "2K ProXDR AMOLED 120Hz",
+            "camera": "50MP Triple Hasselblad Camera",
+            "battery": "6000mAh 100W Wired / 50W Wireless"
+        },
+        "tags": [
+            "flagship",
+            "AI",
+            "camera",
+            "gaming",
+            "5G"
+        ],
+        "stock": "In Stock"
+    }
+]
