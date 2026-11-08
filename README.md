@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Neuroconfig Full-Stack AI Product Recommendation Website
 
 ## Project Overview
